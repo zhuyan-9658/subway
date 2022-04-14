@@ -1,0 +1,13 @@
+1.You can obtain the source code on the github repository.
+2.You can create the directory structure for your static layout and other resources, such as images and styles, inside this folder but keep the location of the static layout file intact.
+3.First make sure docker is installed.
+If your device is a generic x86-64 architecture device (such as a PC or Mac), you can use subway station images.
+Equipment requirements
+Supports the following devices and systems:
+64bit Mac OS X
+64bit Ubuntu (12.04 and 14.04)
+A full range of Raspbian systems
+Pine 64 with Debian Jessie 8.5 (3.10.102)
+Intel Edison with Ubilinux (Debian Wheezy 7.8)
+Windows Subsystem for Linux (WSL)
+4.Developers should update the version number before calling the build system. After building a release, developers should perform health checks.
